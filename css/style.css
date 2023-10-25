@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image:  url(img/pexels-pixabay-220769.jpg);
+    background-image:  url(./img/pexels-pixabay-220769.jpg);
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
